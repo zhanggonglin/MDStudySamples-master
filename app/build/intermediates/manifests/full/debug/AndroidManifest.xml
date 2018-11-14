@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yifeng.mdstudysamples"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.0" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Base.AppTheme" >
+        <activity
+            android:name="com.yifeng.mdstudysamples.activity.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.yifeng.mdstudysamples.activity.TabLayoutTopActivity"
+            android:label="TabLayoutSamples"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yifeng.mdstudysamples.activity.TabLayoutBottomActivity"
+            android:label="TabLayoutSamples"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yifeng.mdstudysamples.activity.SnackbarActivity"
+            android:label="SnackbarSamples"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yifeng.mdstudysamples.activity.FabActivity"
+            android:label="SnackbarSamples"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yifeng.mdstudysamples.activity.PaletteDetailActivity"
+            android:label="SnackbarSamples"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yifeng.mdstudysamples.activity.AppBarLayoutActivity"
+            android:label="SnackbarSamples"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.yifeng.mdstudysamples.activity.BehaviorNestedActivity"
+            android:label="SnackbarSamples"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yifeng.mdstudysamples.activity.BehaviorDependentActivity"
+            android:label="SnackbarSamples"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yifeng.mdstudysamples.activity.BehaviorNestedExpandActivity"
+            android:label="SnackbarSamples"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.yifeng.mdstudysamples.activity.TextInputActivity"
+            android:label="TextInputLayout"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yifeng.mdstudysamples.activity.BottomNavigationActivity"
+            android:label="BottomNavigation"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yifeng.mdstudysamples.activity.SearchResultActivity"
+            android:label="@string/search_result"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+    </application>
+
+</manifest>

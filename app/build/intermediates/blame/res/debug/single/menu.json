@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_samples.xml",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\menu\\menu_samples.xml"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tab_layout.xml",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\menu\\menu_tab_layout.xml"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_bottom_navigation.xml",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\menu\\menu_bottom_navigation.xml"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_palette_detail.xml",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\menu\\menu_palette_detail.xml"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_search.xml",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\menu\\menu_search.xml"
+    }
+]

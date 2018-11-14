@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_palette_03.jpg",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_palette_03.jpg"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\header.jpg",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\header.jpg"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_palette_00.jpg",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_palette_00.jpg"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_palette_02.jpg",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_palette_02.jpg"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_palette_01.jpg",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_palette_01.jpg"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_more.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_more.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_toolbar_order.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_toolbar_order.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_menu_home_selected.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_menu_home_selected.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_toolbar_search.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_toolbar_search.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_menu_home_normal.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_menu_home_normal.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_alipay_scan_96.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_alipay_scan_96.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_alipay_search_96.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_alipay_search_96.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_toolbar_order_72.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_toolbar_order_72.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_alipay_camera_96.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_alipay_camera_96.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_alipay_coupon.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_alipay_coupon.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_alipay_pay_96.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_alipay_pay_96.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_alipay_pay.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_alipay_pay.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_password.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_avatar.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_avatar.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_toolbar_add.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_toolbar_add.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_item_more.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_item_more.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_alipay_location.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_alipay_location.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_alipay_card.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_alipay_card.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_mobile.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_mobile.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_alipay_scan.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_alipay_scan.png"
+    }
+]

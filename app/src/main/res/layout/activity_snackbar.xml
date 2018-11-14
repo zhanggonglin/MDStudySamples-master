@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/include_toolbar"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?borderlessButtonStyle"
+        android:text="Dialog"
+        android:textAllCaps="false"
+        android:textSize="@dimen/sp_16"
+        android:layout_margin="@dimen/dp_16"
+        android:padding="@dimen/dp_16"
+        android:onClick="onClickDialog"
+        android:background="@drawable/state_press_white"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?borderlessButtonStyle"
+        android:text="Snackbar"
+        android:textAllCaps="false"
+        android:textSize="@dimen/sp_16"
+        android:layout_margin="@dimen/dp_16"
+        android:padding="@dimen/dp_16"
+        android:onClick="onClickSnackbar"
+        android:background="@drawable/state_press_white"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="?borderlessButtonStyle"
+        android:text="Toast"
+        android:textAllCaps="false"
+        android:textSize="@dimen/sp_16"
+        android:layout_margin="@dimen/dp_16"
+        android:padding="@dimen/dp_16"
+        android:onClick="onClickToast"
+        android:background="@drawable/state_press_white"/>
+
+</LinearLayout>

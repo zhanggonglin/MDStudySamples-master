@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_cloud.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_cloud.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_2.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\tab_2.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_home.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_3_select.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\tab_3_select.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_explore.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_explore.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_4.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\tab_4.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_1.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\tab_1.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_4_select.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\tab_4_select.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_2_select.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\tab_2_select.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_1_select.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\tab_1_select.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_me.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_me.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_3.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\tab_3.png"
+    },
+    {
+        "merged": "E:\\android_demo\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_settings.png",
+        "source": "E:\\android_demo\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_settings.png"
+    }
+]
